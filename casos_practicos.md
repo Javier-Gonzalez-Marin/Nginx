@@ -50,6 +50,13 @@ Configuramos los archivos de sitios virtuales y añadimos la siguiente informaci
 
 ![pratico8](img/practico8.png)
 
-sudo nano /etc/nginx/sites-available/web2
+Por último activamos los sitios:
 
-Contenido:
+![practico9](img/practico9.png)
+
+Y reiniciamos nginx:
+
+![practico10](img/practico10.png)
+
+
+
