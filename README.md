@@ -45,3 +45,5 @@ A continuación, se presenta un esquema básico de red para implementar Nginx co
   - Servidores Backend: Procesan las peticiones dinámicas y generan las respuestas necesarias.
 
 Nginx se posiciona como un punto central en la red, manejando las conexiones y distribuyendo las cargas de manera eficiente para maximizar el rendimiento del sistema.
+
+## [Instalacion](Instalacion.md)
