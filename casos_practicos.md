@@ -68,6 +68,15 @@ f) Control de acceso por red
 
 Configurar restricciones en el archivo de configuración de web2:
 
+![practico13](img/practico13.png)
+
+g) Autenticación, Autorización y Control de acceso con directorio protegido
+
+![practico14](img/practico14.png)
+
+h) Autenticación, Autorización y Control de acceso con restricción de red
+
+![practico15](img/practico15.png)
 
 
 
