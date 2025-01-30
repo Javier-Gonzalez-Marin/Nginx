@@ -7,7 +7,7 @@ Nginx es un servidor web de alto rendimiento y proxy inverso, ampliamente utiliz
 
 En la empresa Servicios Web RC, S.A., se ha planteado la migración desde Apache a Nginx con el objetivo de mejorar el rendimiento y la escalabilidad de los servicios ofrecidos.
 
-# 2. Comparativa con Apache
+## 2. Comparativa con Apache
 
   - Arquitectura:
 Apache utiliza un modelo basado en procesos o hilos (dependiendo del módulo MPM configurado). Esto implica que cada conexión requiere un hilo o proceso dedicado, lo que puede generar un mayor uso de recursos en escenarios con muchas conexiones concurrentes. Nginx, en cambio, se basa en un modelo asincrónico y dirigido por eventos, lo que le permite manejar múltiples conexiones simultáneamente dentro de un solo hilo, utilizando significativamente menos recursos.
@@ -33,7 +33,7 @@ Apache se utiliza comúnmente en aplicaciones dinámicas que requieren configura
   - Documentación y comunidad:
 Apache tiene una documentación muy extensa y una comunidad consolidada debido a su larga trayectoria. Nginx también cuenta con buena documentación, aunque es algo menos extensa comparada con Apache.
 
-# 3. Esquema de red
+## 3. Esquema de red
 
 A continuación, se presenta un esquema básico de red para implementar Nginx como servidor web y proxy inverso:
 
