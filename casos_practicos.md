@@ -44,11 +44,9 @@ Creamos los archivos index.html:
 
 ![practico6](img/practico6.png)
 
-Configuramos los archivos de sitios virtuales:
+Configuramos los archivos de sitios virtuales y añadimos la siguiente información:
 
 ![practico7](img/practico7.png)
-
-Y añadimos la siguiente informacion
 
 ![pratico8](img/practico8.png)
 
