@@ -1,7 +1,7 @@
-## Nginx
+# Nginx
 
 
-# 1. Introducción
+## 1. Introducción
 
 Nginx es un servidor web de alto rendimiento y proxy inverso, ampliamente utilizado por su eficiencia en la gestión de conexiones concurrentes y su baja utilización de recursos. Originalmente desarrollado como solución para el problema C10k (manejo de 10,000 conexiones simultáneas), ha ganado popularidad en aplicaciones web modernas por su capacidad para equilibrar carga, servir contenido estático rápidamente y actuar como proxy para aplicaciones dinámicas.
 
