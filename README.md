@@ -9,7 +9,7 @@ En la empresa Servicios Web RC, S.A., se ha planteado la migración desde Apache
 
   2. Comparativa con Apache
 
-  A. Arquitectura
+  - Arquitectura
 Apache utiliza un modelo basado en procesos o hilos (dependiendo del módulo MPM configurado). Esto implica que cada conexión requiere un hilo o proceso dedicado, lo que puede generar un mayor uso de recursos en escenarios con muchas conexiones concurrentes. Nginx, en cambio, se basa en un modelo asincrónico y dirigido por eventos, lo que le permite manejar múltiples conexiones simultáneamente dentro de un solo hilo, utilizando significativamente menos recursos.
 
   B. Gestión de conexiones
