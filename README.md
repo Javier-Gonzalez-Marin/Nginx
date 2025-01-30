@@ -46,4 +46,4 @@ A continuación, se presenta un esquema básico de red para implementar Nginx co
 
 Nginx se posiciona como un punto central en la red, manejando las conexiones y distribuyendo las cargas de manera eficiente para maximizar el rendimiento del sistema.
 
-## [Instalación](Instalación.md)
+## ![Instalación](Instalación.md)
