@@ -78,5 +78,7 @@ h) Autenticación, Autorización y Control de acceso con restricción de red
 
 ![practico15](img/practico15.png)
 
+i) Seguridad con acceso HTTPS
 
+![practico16](img/practico16.png)
 
