@@ -58,5 +58,12 @@ Y reiniciamos nginx:
 
 ![practico10](img/practico10.png)
 
+Accedemos a web1 y web2:
+
+![practico11](img/practico11.png)
+
+![practico12](img/practico12.png)
+
+
 
 
