@@ -64,6 +64,10 @@ Accedemos a web1 y web2:
 
 ![practico12](img/practico12.png)
 
+f) Control de acceso por red
+
+Configurar restricciones en el archivo de configuración de web2:
+
 
 
 
