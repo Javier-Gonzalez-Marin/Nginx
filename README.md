@@ -9,18 +9,7 @@ En la empresa Servicios Web RC, S.A., se ha planteado la migración desde Apache
 
 ## 2. [Comparativa con Apache](comparativa_con_apache.md)
 
-## 3. Esquema de red
-
-A continuación, se presenta un esquema básico de red para implementar Nginx como servidor web y proxy inverso:
-
-
-  - Clientes: Usuarios que acceden al servicio web.
-
-  - Servidor Nginx: Actúa como proxy inverso, distribuyendo las peticiones a los servidores backend.
-
-  - Servidores Backend: Procesan las peticiones dinámicas y generan las respuestas necesarias.
-
-Nginx se posiciona como un punto central en la red, manejando las conexiones y distribuyendo las cargas de manera eficiente para maximizar el rendimiento del sistema.
+## 3. [Esquema de red](esquema_red.md)
 
 ## 4.[Instalación](Instalación.md)
 
