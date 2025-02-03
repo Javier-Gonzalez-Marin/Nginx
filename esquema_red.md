@@ -1,4 +1,4 @@
-#Esquema de red
+# Esquema de red
 
 Tarjeta 1:
 
